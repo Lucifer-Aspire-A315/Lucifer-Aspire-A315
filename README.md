@@ -31,13 +31,13 @@
 ## 🌟 Featured Projects
 
 - [rnfintech.com](https://rnfintech.com) — Modern fintech platform
-- [See my pinned repositories below for more!](https://github.com/Omkarg-Dev?tab=repositories)
+- [See my pinned repositories below for more!](https://github.com/Lucifer-Aspire-A315?tab=repositories)
 
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omkarg-Dev&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkarg-Dev&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucifer-Aspire-A315&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucifer-Aspire-A315&theme=radical" height="165" />
 </p>
 
 ## 📬 Connect With Me
